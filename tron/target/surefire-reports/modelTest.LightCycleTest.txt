@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: modelTest.LightCycleTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0 sec <<< FAILURE!
+modelTest.LightCycleTest.testturnLeft()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at modelTest.LightCycleTest.testturnLeft(LightCycleTest.java:50)
+
+modelTest.LightCycleTest.testsetColor()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at modelTest.LightCycleTest.testsetColor(LightCycleTest.java:62)
+
+modelTest.LightCycleTest.testturnRight()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at modelTest.LightCycleTest.testturnRight(LightCycleTest.java:41)
+

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: modelTest.ElementsTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0 sec <<< FAILURE!
+modelTest.ElementsTest.testsetColor()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at modelTest.ElementsTest.testsetColor(ElementsTest.java:47)
+
+modelTest.ElementsTest.testgetColor()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at modelTest.ElementsTest.testgetColor(ElementsTest.java:38)
+

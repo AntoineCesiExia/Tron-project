@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: modelTest.GridTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 sec <<< FAILURE!
+modelTest.GridTest.testCheckCollision()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at modelTest.GridTest.testCheckCollision(GridTest.java:37)
+
